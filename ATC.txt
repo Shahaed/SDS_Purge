@@ -1,0 +1,363 @@
+0
+          
+0
+2
+          
+          
+
+He a lt h
+
+Fire
+
+Re a c t iv it y
+
+P e rs o n a l
+P ro t e c t io n
+
+2
+
+0
+
+0
+
+E
+
+Material Safety Data Sheet
+Ammonium thiocyanate MSDS
+
+Section 1: Chemical Product and Company Identification
+
+Product Name: Ammonium thiocyanate
+
+Contact Information:
+
+Catalog Codes: SLA2137, SLA3637
+
+CAS#: 1762-95-4
+
+RTECS: XK7875000
+
+TSCA: TSCA 8(b) inventory: Ammonium thiocyanate
+
+CI#: Not available.
+
+Synonym:  
+
+Sciencelab.com, Inc.
+14025 Smith Rd.
+Houston, Texas 77396
+US Sales: 1-800-901-7247
+International Sales: 1-281-441-4400
+Order Online: ScienceLab.com
+
+CHEMTREC (24HR Emergency Telephone), call:
+1-800-424-9300
+
+Chemical Name: Ammonium Thiocyanate
+
+International CHEMTREC, call: 1-703-527-3887
+
+Chemical Formula: NH4SCN
+
+For non-emergency assistance, call: 1-281-441-4400
+
+Section 2: Composition and Information on Ingredients
+
+Composition:
+
+Name
+
+Ammonium thiocyanate
+
+CAS #
+
+1762-95-4
+
+% by Weight
+
+100
+
+Toxicological Data on Ingredients: Ammonium thiocyanate: ORAL (LD50): Acute: 750 mg/kg [Rat]. 500 mg/kg [Mouse]. 500
+mg/kg [Guinea pig].
+
+Section 3: Hazards Identification
+
+Potential Acute Health Effects: Hazardous in case of skin contact (irritant), of eye contact (irritant), of ingestion, of inhalation.
+
+Potential Chronic Health Effects:
+CARCINOGENIC EFFECTS: Not available. MUTAGENIC EFFECTS: Not available. TERATOGENIC EFFECTS: Not available.
+DEVELOPMENTAL TOXICITY: Not available. The substance may be toxic to blood, thyroid. Repeated or prolonged exposure
+to the substance can produce target organs damage.
+
+Section 4: First Aid Measures
+
+Eye Contact:
+Check for and remove any contact lenses. In case of contact, immediately flush eyes with plenty of water for at least 15
+minutes. Cold water may be used. Get medical attention.
+
+p. 1
+
+Skin Contact:
+In case of contact, immediately flush skin with plenty of water. Cover the irritated skin with an emollient. Remove contaminated
+clothing and shoes. Cold water may be used.Wash clothing before reuse. Thoroughly clean shoes before reuse. Get medical
+attention.
+
+Serious Skin Contact:
+Wash with a disinfectant soap and cover the contaminated skin with an anti-bacterial cream. Seek immediate medical
+attention.
+
+Inhalation:
+If inhaled, remove to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Get medical
+attention.
+
+Serious Inhalation: Not available.
+
+Ingestion:
+Do NOT induce vomiting unless directed to do so by medical personnel. Never give anything by mouth to an unconscious
+person. If large quantities of this material are swallowed, call a physician immediately. Loosen tight clothing such as a collar,
+tie, belt or waistband.
+
+Serious Ingestion: Not available.
+
+Section 5: Fire and Explosion Data
+
+Flammability of the Product: Non-flammable.
+
+Auto-Ignition Temperature: Not applicable.
+
+Flash Points: Not applicable.
+
+Flammable Limits: Not applicable.
+
+Products of Combustion: Not available.
+
+Fire Hazards in Presence of Various Substances: Not applicable.
+
+Explosion Hazards in Presence of Various Substances:
+Risks of explosion of the product in presence of mechanical impact: Not available. Risks of explosion of the product in
+presence of static discharge: Not available.
+
+Fire Fighting Media and Instructions: Not applicable.
+
+Special Remarks on Fire Hazards: Not available.
+
+Special Remarks on Explosion Hazards: Ammonium Thiocyanate + Lead Nitrate may cause explosion
+
+Section 6: Accidental Release Measures
+
+Small Spill:
+Use appropriate tools to put the spilled solid in a convenient waste disposal container. Finish cleaning by spreading water on
+the contaminated surface and dispose of according to local and regional authority requirements.
+
+Large Spill:
+Use a shovel to put the material into a convenient waste disposal container. Finish cleaning by spreading water on the
+contaminated surface and allow to evacuate through the sanitary system.
+
+Section 7: Handling and Storage
+
+Precautions:
+Do not ingest. Do not breathe dust. Wear suitable protective clothing. In case of insufficient ventilation, wear suitable
+respiratory equipment. If ingested, seek medical advice immediately and show the container or the label. Avoid contact with
+skin and eyes.
+
+p. 2
+
+Storage: Keep container tightly closed. Keep container in a cool, well-ventilated area.
+
+Section 8: Exposure Controls/Personal Protection
+
+Engineering Controls:
+Use process enclosures, local exhaust ventilation, or other engineering controls to keep airborne levels below recommended
+exposure limits. If user operations generate dust, fume or mist, use ventilation to keep exposure to airborne contaminants
+below the exposure limit.
+
+Personal Protection:
+Splash goggles. Lab coat. Dust respirator. Be sure to use an approved/certified respirator or equivalent. Gloves.
+
+Personal Protection in Case of a Large Spill:
+Splash goggles. Full suit. Dust respirator. Boots. Gloves. A self contained breathing apparatus should be used to avoid
+inhalation of the product. Suggested protective clothing might not be sufficient; consult a specialist BEFORE handling this
+product.
+
+Exposure Limits: Not available.
+
+Physical state and appearance: Solid. (Crystals solid.)
+
+Section 9: Physical and Chemical Properties
+
+Odor: Odorless.
+
+Taste: Not available.
+
+Molecular Weight: 76.12g/mole
+
+Color: Colorless.
+
+pH (1% soln/water): Not available.
+
+Boiling Point: Not available.
+
+Melting Point: 149.6°C (301.3°F)
+
+Critical Temperature: Not available.
+
+Specific Gravity: 1.305 (Water = 1)
+
+Vapor Pressure: Not applicable.
+
+Vapor Density: Not available.
+
+Volatility: Not available.
+
+Odor Threshold: Not available.
+
+Water/Oil Dist. Coeff.: Not available.
+
+Ionicity (in Water): Not available.
+
+Dispersion Properties: See solubility in water, acetone.
+
+Solubility:
+Easily soluble in cold water, hot water. Soluble in acetone. Soluble in ammonia, and alcohol. Practically incoluble in
+chloroform, and ethyl acetate.
+
+Stability: The product is stable.
+
+Section 10: Stability and Reactivity Data
+
+p. 3
+
+Instability Temperature: Not available.
+
+Conditions of Instability: Incompatible materials
+
+Incompatibility with various substances: Not available.
+
+Corrosivity:
+Extremely corrosive in presence of copper, brass, iron. Non-corrosive in presence of glass.
+
+Special Remarks on Reactivity: Incompatible with KClO3 and mixtures with Pb(NO3)2
+
+Special Remarks on Corrosivity: Not available.
+
+Polymerization: Will not occur.
+
+Section 11: Toxicological Information
+
+Routes of Entry: Inhalation. Ingestion.
+
+Toxicity to Animals: Acute oral toxicity (LD50): 500 mg/kg [Guinea pig].
+
+Chronic Effects on Humans: May cause damage to the following organs: blood, thyroid.
+
+Other Toxic Effects on Humans: Hazardous in case of skin contact (irritant), of ingestion, of inhalation.
+
+Special Remarks on Toxicity to Animals: Not available.
+
+Special Remarks on Chronic Effects on Humans: Not available.
+
+Special Remarks on other Toxic Effects on Humans:
+Acute Potential Health Effects: Skin: Causes skin irritation Eyes: Causes eye irritation Inhalation: Causes respiratory tract
+and mucous membrane irritation. Ingestion: May cause gastrointestinal tract irritation with nausea and vomiting. May affect
+behavior/Central Nervous System (hallucinations, distorted perceptions, personality and mood changes, mania, disorientation,
+weakness, seizures), metabolism. Chronic Potential Health Effects: Prolonged exposure may affect the thyroid gland and
+blood cells, and cause personality and mood changes.
+
+Section 12: Ecological Information
+
+Ecotoxicity: Not available.
+
+BOD5 and COD: Not available.
+
+Products of Biodegradation:
+Possibly hazardous short term degradation products are not likely. However, long term degradation products may arise.
+
+Toxicity of the Products of Biodegradation: The products of degradation are less toxic than the product itself.
+
+Special Remarks on the Products of Biodegradation: Not available.
+
+Section 13: Disposal Considerations
+
+Waste Disposal:
+Waste must be disposed of in accordance with federal, state and local environmental control regulations.
+
+Section 14: Transport Information
+
+DOT Classification: Not a DOT controlled material (United States).
+
+Identification: Not applicable.
+
+p. 4
+
+Special Provisions for Transport: Not applicable.
+
+Section 15: Other Regulatory Information
+
+Federal and State Regulations:
+Connecticut hazardous material survey.: Ammonium thiocyanate Illinois toxic substances disclosure to employee act:
+Ammonium thiocyanate Illinois chemical safety act: Ammonium thiocyanate New York release reporting list: Ammonium
+thiocyanate Pennsylvania RTK: Ammonium thiocyanate Massachusetts RTK: Ammonium thiocyanate Massachusetts spill
+list: Ammonium thiocyanate New Jersey: Ammonium thiocyanate New Jersey spill list: Ammonium thiocyanate Louisiana
+spill reporting: Ammonium thiocyanate TSCA 8(b) inventory: Ammonium thiocyanate CERCLA: Hazardous substances.:
+Ammonium thiocyanate: 5000 lbs. (2268 kg)
+
+Other Regulations:
+OSHA: Hazardous by definition of Hazard Communication Standard (29 CFR 1910.1200). EINECS: This product is on the
+European Inventory of Existing Commercial Chemical Substances.
+
+Other Classifications:
+
+WHMIS (Canada): Not controlled under WHMIS (Canada).
+
+DSCL (EEC):
+R20/21/22- Harmful by inhalation, in contact with skin and if swallowed. R36/37/38- Irritating to eyes, respiratory system and
+skin. S2- Keep out of the reach of children. S26- In case of contact with eyes, rinse immediately with plenty of water and seek
+medical advice. S36- Wear suitable protective clothing. S46- If swallowed, seek medical advice immediately and show this
+container or label.
+
+HMIS (U.S.A.):
+
+Health Hazard: 2
+
+Fire Hazard: 0
+
+Reactivity: 0
+
+Personal Protection: E
+
+National Fire Protection Association (U.S.A.):
+
+Health: 2
+
+Flammability: 0
+
+Reactivity: 0
+
+Specific hazard:
+
+Protective Equipment:
+Gloves. Lab coat. Dust respirator. Be sure to use an approved/certified respirator or equivalent. Splash goggles.
+
+Section 16: Other Information
+
+References: Not available.
+
+Other Special Considerations: Not available.
+
+Created: 10/10/2005 08:14 PM
+
+Last Updated: 05/21/2013 12:00 PM
+
+The information above is believed to be accurate and represents the best information currently available to us. However, we
+make no warranty of merchantability or any other warranty, express or implied, with respect to such information, and we assume
+no liability resulting from its use. Users should make their own investigations to determine the suitability of the information for
+their particular purposes. In no event shall ScienceLab.com be liable for any claims, losses, or damages of any third party or for
+
+p. 5
+
+lost profits or any special, indirect, incidental, consequential or exemplary damages, howsoever arising, even if ScienceLab.com
+has been advised of the possibility of such damages.
+
+p. 6
+
+

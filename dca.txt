@@ -1,0 +1,373 @@
+1
+          
+0
+3
+          
+          
+
+3
+
+1
+
+0
+
+He a lt h
+
+Fire
+
+Re a c t iv it y
+
+P e rs o n a l
+P ro t e c t io n
+
+Material Safety Data Sheet
+
+Dichloroacetic acid MSDS
+
+Section 1: Chemical Product and Company Identification
+
+Product Name: Dichloroacetic acid
+
+Contact Information:
+
+Catalog Codes: SLD3049
+
+CAS#: 79-43-6
+
+RTECS: AG6125000
+
+TSCA: TSCA 8(b) inventory: Dichloroacetic acid
+
+CI#: Not available.
+
+Synonym:  
+
+Chemical Name: Dichloroacetic Acid
+
+Chemical Formula: C2-H2-Cl2-O2
+
+Sciencelab.com, Inc.
+14025 Smith Rd.
+Houston, Texas 77396
+US Sales: 1-800-901-7247
+International Sales: 1-281-441-4400
+Order Online: ScienceLab.com
+
+CHEMTREC (24HR Emergency Telephone), call:
+1-800-424-9300
+
+International CHEMTREC, call: 1-703-527-3887
+
+For non-emergency assistance, call: 1-281-441-4400
+
+Section 2: Composition and Information on Ingredients
+
+Composition:
+
+Name
+
+Dichloroacetic acid
+
+CAS #
+
+79-43-6
+
+% by Weight
+
+100
+
+Toxicological Data on Ingredients: Dichloroacetic acid: ORAL (LD50): Acute: 2820 mg/kg [Rat]. DERMAL (LD50): Acute:
+510 mg/kg [Rabbit].
+
+Section 3: Hazards Identification
+
+Potential Acute Health Effects:
+Extremely hazardous in case of skin contact (corrosive, irritant), of eye contact (irritant), of ingestion, . Very hazardous in case
+of skin contact (permeator). Hazardous in case of inhalation (lung irritant). Liquid or spray mist may produce tissue damage
+particularly on mucous membranes of eyes, mouth and respiratory tract. Skin contact may produce burns. Inhalation of the
+spray mist may produce severe irritation of respiratory tract, characterized by coughing, choking, or shortness of breath.
+Inflammation of the eye is characterized by redness, watering, and itching. Skin inflammation is characterized by itching,
+scaling, reddening, or, occasionally, blistering.
+Potential Chronic Health Effects:
+CARCINOGENIC EFFECTS: 3 (Not classifiable for human.) by IARC. MUTAGENIC EFFECTS: Not available. TERATOGENIC
+EFFECTS: Not available. DEVELOPMENTAL TOXICITY: PROVEN The substance is toxic to lungs, the reproductive system,
+liver, mucous membranes. Repeated or prolonged exposure to the substance can produce target organs damage. Repeated
+or prolonged contact with spray mist may produce chronic eye irritation and severe skin irritation. Repeated or prolonged
+exposure to spray mist may produce respiratory tract irritation leading to frequent attacks of bronchial infection.
+
+p. 1
+
+Section 4: First Aid Measures
+
+Eye Contact:
+Check for and remove any contact lenses. Immediately flush eyes with running water for at least 15 minutes, keeping eyelids
+open. Cold water may be used. Do not use an eye ointment. Seek medical attention.
+
+Skin Contact:
+If the chemical got onto the clothed portion of the body, remove the contaminated clothes as quickly as possible, protecting
+your own hands and body. Place the victim under a deluge shower. If the chemical got on the victim's exposed skin, such
+as the hands : Gently and thoroughly wash the contaminated skin with running water and non-abrasive soap. Be particularly
+careful to clean folds, crevices, creases and groin. Cold water may be used. If irritation persists, seek medical attention. Wash
+contaminated clothing before reusing.
+
+Serious Skin Contact:
+Wash with a disinfectant soap and cover the contaminated skin with an anti-bacterial cream. Seek immediate medical
+attention.
+
+Inhalation: Allow the victim to rest in a well ventilated area. Seek immediate medical attention.
+
+Serious Inhalation:
+Evacuate the victim to a safe area as soon as possible. Loosen tight clothing such as a collar, tie, belt or waistband. If
+breathing is difficult, administer oxygen. If the victim is not breathing, perform mouth-to-mouth resuscitation. WARNING: It may
+be hazardous to the person providing aid to give mouth-to-mouth resuscitation when the inhaled material is toxic, infectious or
+corrosive. Seek immediate medical attention.
+
+Ingestion:
+Do not induce vomiting. Examine the lips and mouth to ascertain whether the tissues are damaged, a possible indication that
+the toxic material was ingested; the absence of such signs, however, is not conclusive. Loosen tight clothing such as a collar,
+tie, belt or waistband. If the victim is not breathing, perform mouth-to-mouth resuscitation. Seek immediate medical attention.
+
+Serious Ingestion: Not available.
+
+Flammability of the Product: May be combustible at high temperature.
+
+Section 5: Fire and Explosion Data
+
+Auto-Ignition Temperature: Not available.
+
+Flash Points: CLOSED CUP: 110°C (230°F).
+
+Flammable Limits: Not available.
+
+Products of Combustion: These products are carbon oxides (CO, CO2), halogenated compounds.
+
+Fire Hazards in Presence of Various Substances: Not available.
+
+Explosion Hazards in Presence of Various Substances:
+Risks of explosion of the product in presence of mechanical impact: Not available. Risks of explosion of the product in
+presence of static discharge: Not available.
+
+Fire Fighting Media and Instructions:
+SMALL FIRE: Use DRY chemical powder. LARGE FIRE: Use water spray, fog or foam. Do not use water jet.
+
+Special Remarks on Fire Hazards: Not available.
+
+Special Remarks on Explosion Hazards: Not available.
+
+Section 6: Accidental Release Measures
+
+Small Spill:
+Dilute with water and mop up, or absorb with an inert dry material and place in an appropriate waste disposal container.
+
+p. 2
+
+Large Spill:
+Corrosive liquid. Stop leak if without risk. Absorb with DRY earth, sand or other non-combustible material. Do not get water
+inside container. Do not touch spilled material. Use water spray curtain to divert vapor drift. Prevent entry into sewers,
+basements or confined areas; dike if needed. Eliminate all ignition sources. Call for assistance on disposal.
+
+Section 7: Handling and Storage
+
+Precautions:
+Keep container dry. Keep away from heat. Keep away from sources of ignition. Empty containers pose a fire risk, evaporate
+the residue under a fume hood. Ground all equipment containing material. Do not ingest. Do not breathe gas/fumes/ vapour/
+spray. Never add water to this product In case of insufficient ventilation, wear suitable respiratory equipment If ingested, seek
+medical advice immediately and show the container or the label. Avoid contact with skin and eyes
+
+Storage:
+Keep container dry. Keep in a cool place. Ground all equipment containing material. Corrosive materials should be stored in a
+separate safety storage cabinet or room.
+
+Section 8: Exposure Controls/Personal Protection
+
+Engineering Controls:
+Provide exhaust ventilation or other engineering controls to keep the airborne concentrations of vapors below their respective
+threshold limit value. Ensure that eyewash stations and safety showers are proximal to the work-station location.
+
+Personal Protection:
+Face shield. Full suit. Vapor respirator. Be sure to use an approved/certified respirator or equivalent. Gloves. Boots.
+
+Personal Protection in Case of a Large Spill:
+Splash goggles. Full suit. Vapor respirator. Boots. Gloves. A self contained breathing apparatus should be used to avoid
+inhalation of the product. Suggested protective clothing might not be sufficient; consult a specialist BEFORE handling this
+product.
+
+Exposure Limits: Not available.
+
+Section 9: Physical and Chemical Properties
+
+Physical state and appearance: Liquid.
+
+Odor: Not available.
+
+Taste: Not available.
+
+Molecular Weight: 128.94 g/mole
+
+Color: Colorless.
+
+pH (1% soln/water): Not available.
+
+Boiling Point: 193.5°C (380.3°F)
+
+Melting Point: 10°C (50°F)
+
+Critical Temperature: Not available.
+
+Specific Gravity: 1.5634 (Water = 1)
+
+Vapor Pressure: 0.179 mm of Hg (@ 20°C)
+
+Vapor Density: 4.45 (Air = 1)
+
+Volatility: Not available.
+
+Odor Threshold: 0.2 ppm
+
+p. 3
+
+Water/Oil Dist. Coeff.: Not available.
+
+Ionicity (in Water): Not available.
+
+Dispersion Properties:
+Easily dispersed in methanol, diethyl ether. Dispersed in n-octanol. See solubility in water, methanol, diethyl ether, n-octanol,
+acetone.
+
+Solubility:
+Easily soluble in cold water, methanol, diethyl ether, acetone. Soluble in n-octanol.
+
+Section 10: Stability and Reactivity Data
+
+Stability: The product is stable.
+
+Instability Temperature: Not available.
+
+Conditions of Instability: Not available.
+
+Incompatibility with various substances: Not available.
+
+Corrosivity: Not available.
+
+Special Remarks on Reactivity: Not available.
+
+Special Remarks on Corrosivity: Not available.
+
+Polymerization: No.
+
+Section 11: Toxicological Information
+
+Routes of Entry: Absorbed through skin. Dermal contact. Eye contact. Inhalation. Ingestion.
+
+Toxicity to Animals:
+Acute oral toxicity (LD50): 2820 mg/kg [Rat]. Acute dermal toxicity (LD50): 510 mg/kg [Rabbit].
+
+Chronic Effects on Humans:
+CARCINOGENIC EFFECTS: 3 (Not classifiable for human.) by IARC. DEVELOPMENTAL TOXICITY: PROVEN The
+substance is toxic to lungs, the reproductive system, liver, mucous membranes.
+
+Other Toxic Effects on Humans:
+Extremely hazardous in case of skin contact (corrosive, irritant), of ingestion, . Very hazardous in case of skin contact
+(permeator). Hazardous in case of inhalation (lung irritant).
+
+Special Remarks on Toxicity to Animals: Not available.
+
+Special Remarks on Chronic Effects on Humans: Not available.
+
+Special Remarks on other Toxic Effects on Humans: Not available.
+
+Section 12: Ecological Information
+
+Ecotoxicity: Not available.
+
+BOD5 and COD: Not available.
+
+Products of Biodegradation:
+Possibly hazardous short term degradation products are not likely. However, long term degradation products may arise.
+
+Toxicity of the Products of Biodegradation: The products of degradation are as toxic as the original product.
+
+Special Remarks on the Products of Biodegradation: Not available.
+
+p. 4
+
+Waste Disposal:
+
+Section 13: Disposal Considerations
+
+Section 14: Transport Information
+
+DOT Classification: CLASS 8: Corrosive liquid.
+
+Identification: : Dichloroacetic acid : UN1764 PG: II
+
+Special Provisions for Transport: Not available.
+
+Section 15: Other Regulatory Information
+
+Federal and State Regulations:
+California prop. 65: This product contains the following ingredients for which the State of California has found to cause cancer,
+birth defects or other reproductive harm, which would require a warning under the statute: Dichloroacetic acid California prop.
+65: This product contains the following ingredients for which the State of California has found to cause cancer which would
+require a warning under the statute: Dichloroacetic acid New Jersey: Dichloroacetic acid TSCA 8(b) inventory: Dichloroacetic
+acid TSCA 8(d) H and S data reporting: Dichloroacetic acid: March 1999
+
+Other Regulations:
+OSHA: Hazardous by definition of Hazard Communication Standard (29 CFR 1910.1200). EINECS: This product is on the
+European Inventory of Existing Commercial Chemical Substances.
+
+Other Classifications:
+
+WHMIS (Canada):
+CLASS D-1B: Material causing immediate and serious toxic effects (TOXIC). CLASS D-2A: Material causing other toxic effects
+(VERY TOXIC). CLASS E: Corrosive liquid.
+
+DSCL (EEC):
+R21- Harmful in contact with skin. R35- Causes severe burns.
+
+HMIS (U.S.A.):
+
+Health Hazard: 3
+
+Fire Hazard: 1
+
+Reactivity: 0
+
+Personal Protection:
+
+National Fire Protection Association (U.S.A.):
+
+Health: 3
+
+Flammability: 1
+
+Reactivity: 0
+
+Specific hazard:
+
+Protective Equipment:
+Gloves. Full suit. Vapor respirator. Be sure to use an approved/certified respirator or equivalent. Wear appropriate respirator
+when ventilation is inadequate. Face shield.
+
+References: Not available.
+
+Section 16: Other Information
+
+p. 5
+
+Other Special Considerations: Not available.
+
+Created: 10/09/2005 05:07 PM
+
+Last Updated: 05/21/2013 12:00 PM
+
+The information above is believed to be accurate and represents the best information currently available to us. However, we
+make no warranty of merchantability or any other warranty, express or implied, with respect to such information, and we assume
+no liability resulting from its use. Users should make their own investigations to determine the suitability of the information for
+their particular purposes. In no event shall ScienceLab.com be liable for any claims, losses, or damages of any third party or for
+lost profits or any special, indirect, incidental, consequential or exemplary damages, howsoever arising, even if ScienceLab.com
+has been advised of the possibility of such damages.
+
+p. 6
+
+
