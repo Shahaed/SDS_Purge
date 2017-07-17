@@ -238,14 +238,16 @@ def writeCSV(data, filename):
     return
 
 
+def main():
+
+    sds1 = Section9Parse(SectionSplit("dca.txt")["Section9"])
+    sds2 = Section9Parse(SectionSplit("ATC.txt")["Section9"])
 
 
-sds1 = Section9Parse(SectionSplit("dca.txt")["Section9"])
-sds2 = Section9Parse(SectionSplit("ATC.txt")["Section9"])
+    print(SectionSplit("dca.txt")["Section1"])
+    print(SectionSplit("ATC.txt")["Section1"])
+    writeCSV([sds1,sds2], "test.csv")
 
 
-print(SectionSplit("dca.txt")["Section1"])
-print(SectionSplit("ATC.txt")["Section1"])
-writeCSV([sds1,sds2], "test.csv")
-
-
+if __name__ == "__main__":
+    main()
