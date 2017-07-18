@@ -189,6 +189,7 @@ def Section9Parse(Section9):
             else:
                 solubility = Section9[index + 1]
 
+
     properties = {"Odor" : odor, 'Taste' : taste, 'Physical State' : physical_state,
                     'Color' :  color, 'Boiling Point' : boil_point, 'Melting Point' : melt_point,
                 'Critical Temperature': crit_temp, 'Vapor pressure' : vapor_pressure, 'Molecular Weight' : MW,
